@@ -1,2 +1,7 @@
-# tipos-de-servico-nuvem-lab
-Este repositório contém o resumo das lições aprendidas sobre os tipos de serviços da nuvem na DIO
+# Tipos de serviços da nuvem
+
+Nós sabemos que a nuvem possui diversos serviços disponíveis para serem utilizados e cada serviço pertence a um tipo, os tipos de serviços de nuvem são os seguintes: IaaS (infraestrutura como serviço), PaaS (plataforma como serviço) e SaaS (software como service).
+
+A Iaas compreende os serviços de servidores e amazenamento, firewalls/segurança de rede e planta física do datacente. A Paas englobam os serviços de Iaas já implementados com o complemento dos sistemas operacionais e ferramentas para desenvolvedores, análise de negócios e gerenciamento de database, esse tipo de serviço fornece um ambiente de desenvolvimento sem focar no gerencimento da infraestrutura. O Saas compreende os serviços de IaaS e PaaS já implementados com o complemento da hospedagem de aplicativos.
+
+Em uma escala de responsabilidade à medida que a responsabilidade do cliente aumenta a responsabilidade do provedor da nuvem diminui. O Saas já possui os serviços de IaaS e PaaS implementados, então esse tipo de serviço possui uma maior responsabilidade do cliente e menor do provedor, ao contrário dos serviços IaaS que precisam configurar e implementar a infraestrutura, nesse tipo de serviço a maior responsabilidade é por parte do provedor e não do cliente. A responsabilidade compartilhada do PaaS ficaria em um meio termo, pois ainda que já tenha a IaaS implementada, precisa se preocupar com a configuração da plataforma.
